@@ -1,0 +1,2 @@
+[console_scripts]
+sofascore = src.cli.commands:cli

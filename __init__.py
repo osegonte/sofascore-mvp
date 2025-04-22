@@ -1,0 +1,3 @@
+"""
+SofaScore CLI package
+"""
